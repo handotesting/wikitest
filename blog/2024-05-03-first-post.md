@@ -2,7 +2,7 @@
 title: Basic Post
 description: 
 published: true
-date: 2024-05-03T05:19:10.291Z
+date: 2024-05-03T05:21:30.291Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T05:07:46.072Z
@@ -21,7 +21,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Un poco de matemática
 
-∫p(x)dx\=∫π(z)dz\=1 ; Definition of probability distribution.p(x)\=π(z)∣dzdx∣\=π(f−1(x))∣df−1dx∣\=π(f−1(x))∣(f−1)′(x)∣\\begin{aligned} & \\int p(x)dx = \\int \\pi(z)dz = 1 \\scriptstyle{\\text{ ; Definition of probability distribution.}}\\\\ & p(x) = \\pi(z) \\left\\vert\\frac{dz}{dx}\\right\\vert = \\pi(f^{-1}(x)) \\left\\vert\\frac{d f^{-1}}{dx}\\right\\vert = \\pi(f^{-1}(x)) \\vert (f^{-1})'(x) \\vert \\end{aligned} ​∫p(x)dx\=∫π(z)dz\=1 ; Definition of probability distribution.p(x)\=π(z)∣∣∣∣∣​dxdz​∣∣∣∣∣​\=π(f−1(x))∣∣∣∣∣​dxdf−1​∣∣∣∣∣​\=π(f−1(x))∣(f−1)′(x)∣​
+∫p(x)dx=∫π(z)dz=1 ; Definition of probability distribution.p(x)=π(z)∣dzdx∣=π(f−1(x))∣df−1dx∣=π(f−1(x))∣(f−1)′(x)∣\\begin{aligned} & \\int p(x)dx = \\int \\pi(z)dz = 1 \\scriptstyle{\\text{ ; Definition of probability distribution.}}\\\\ & p(x) = \\pi(z) \\left\\vert\\frac{dz}{dx}\\right\\vert = \\pi(f^{-1}(x)) \\left\\vert\\frac{d f^{-1}}{dx}\\right\\vert = \\pi(f^{-1}(x)) \\vert (f^{-1})'(x) \\vert \\end{aligned} ​∫p(x)dx=∫π(z)dz=1 ; Definition of probability distribution.p(x)=π(z)∣∣∣∣∣​dxdz​∣∣∣∣∣​=π(f−1(x))∣∣∣∣∣​dxdf−1​∣∣∣∣∣​=π(f−1(x))∣(f−1)′(x)∣​
 
 ---
 
