@@ -14,8 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "physics/space.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
