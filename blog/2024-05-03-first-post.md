@@ -2,7 +2,7 @@
 title: Basic Post
 description: 
 published: true
-date: 2024-05-03T05:29:39.323Z
+date: 2024-05-03T05:46:23.683Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T05:07:46.072Z
@@ -22,6 +22,11 @@ Una imagen:
 ---
 
 Un iframe de desmos no interactivo:
+
+> IMPORTANTE: SINO SE VEN LOS IFRAMES EN WIKI.JS REVISAR ESTE [LINK](https://github.com/Requarks/wiki/issues/1550#issuecomment-612545473)
+{.is-warning}
+
+
 
 <iframe src="https://www.desmos.com/calculator/ocouu4910y?embed" width="740px" height="500px" style="border: 1px solid #ccc" frameborder="0"></iframe>
 
