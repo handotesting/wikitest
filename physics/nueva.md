@@ -1,5 +1,5 @@
 ---
-title: Nueva note
+title: Nueva
 description: 
 published: true
 date: 2024-05-03T07:12:36.933Z
