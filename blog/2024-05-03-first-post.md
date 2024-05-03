@@ -2,7 +2,7 @@
 title: Basic Post
 description: 
 published: true
-date: 2024-05-03T05:28:33.320Z
+date: 2024-05-03T05:29:39.323Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T05:07:46.072Z
@@ -29,6 +29,8 @@ Un iframe de desmos no interactivo:
 
 Un iframe de desmos interactivo:
 
+
+<iframe src="https://www.desmos.com/calculator/ocouu4910y" width="740px" height="500px" style="border: 1px solid #ccc" frameborder="0"></iframe>
 
 ---
 
