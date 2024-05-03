@@ -2,7 +2,7 @@
 title: Formula
 description: 
 published: true
-date: 2024-05-03T04:31:12.786Z
+date: 2024-05-03T04:31:49.987Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T03:28:13.453Z
