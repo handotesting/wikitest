@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2024-05-03T03:28:13.453Z
 ---
 
-An string of [symbols](/logic/symbol)
+An string of [symbols](symbol.md)
